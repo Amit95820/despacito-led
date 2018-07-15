@@ -34,10 +34,15 @@ these were the pre-requisite.Now lets come to the steps.
     
     3.now make a folder with the name- BeatWrite , i recommend you to make the folder on the desktop.
     
-    4.Now copy the two file- 1.BeatWrite.pde, 2.BeatListener to the made folder.
+    4.Now copy the two file- 1.BeatWrite.pde, 2.BeatListener.pde to the made folder.
     
-    5. Now creat another folder name- data , inside the same folder, the data folder will contain the song which you have to play.
+    5. Now create another folder name- "data" , inside the same folder, the data folder will contain the song which you have to play.
     
     6. now open Beatwriter.pde file in processing.
     
-    7.
+    7.now you will get a line "song = minim.loadFile("xyz", 2048);"
+      instead of xyz write the name of the song in the data folder ending with ".mp3"
+    
+    8.you need not change the BeatListener file.
+    
+    9.now run the code and see the magic...
