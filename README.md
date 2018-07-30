@@ -46,3 +46,8 @@ these were the pre-requisite.Now lets come to the steps.
     8.you need not change the BeatListener file.
     
     9.now run the code and see the magic...
+    
+    
+    ## video links
+    ### 1. https://drive.google.com/open?id=1Bagyc5QlbsTCEx_U3ZXNI5qulNKZOyMh
+    ### 2. https://drive.google.com/open?id=1BQcawZ-JhjW1n7gwdFCqgCt6dAYihXyZ
